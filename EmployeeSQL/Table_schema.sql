@@ -1,10 +1,10 @@
 -- Drop table if exists
-Drop table employees Cascade;
-Drop table titles Cascade;
-Drop table salaries Cascade;
-Drop table departments Cascade;
-Drop table dept_manager Cascade;
-Drop table dept_emp Cascade;
+Drop table employees;
+Drop table titles;
+Drop table salaries;
+Drop table departments;
+Drop table dept_manager;
+Drop table dept_emp;
 
 --Create table for employees
 CREATE TABLE employees (
