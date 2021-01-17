@@ -1,4 +1,4 @@
-# sql-challenge
+# sql-project
 ## Employee Database
 
 Data Modeling
